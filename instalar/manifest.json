@@ -1,6 +1,6 @@
 {
-  "name": "Mi Aplicacion",
-  "short_name": "App",
+  "name": "Burger Jhonny",
+  "short_name": "jhonny",
   "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
