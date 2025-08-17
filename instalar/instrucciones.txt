@@ -16,6 +16,5 @@ PASO 2. el segundo link y su comenntario pega al ultimo de todas las etiquetas q
 
 
 
-
 <!-- script para instalar a pantalla -->
 <script src="/instalar/pwa.js"></script>
